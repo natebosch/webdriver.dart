@@ -1,3 +1,7 @@
+## 3.0.0-nullsafety.1
+
+- Drop dependency on `package:pedantic`.
+
 ## 3.0.0-nullsafety.0
 
 - Enable null safety.
